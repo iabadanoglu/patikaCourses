@@ -10,4 +10,4 @@ Online film satan veya kiralayan uygulamanın sistemini tasarlayın.
 
 ## Online Film Sistemi UML Diyagramı Örneği
 
-İki ödev yeterli diye düşündüğüm için bu ödev için vakit harcamak istemedim. Diyagramı aldığım adres ![diyagramın linki]() https://github.com/muhammedelarac/Online-Film-Sistemi/blob/master/Online%20Film%20Sistemi.png)
+İki ödev yeterli diye düşündüğüm için bu ödev için vakit harcamak istemedim. Diyagramı aldığım adres ![diyagramın linki]() https://github.com/muhammedelarac/Online-Film-Sistemi/blob/master/Online Film Sistemi.png)
