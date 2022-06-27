@@ -12,6 +12,6 @@ Online film satan veya kiralayan uygulamanın sistemini tasarlayın.
 
 İki ödev yeterli diye düşündüğüm için bu ödev için vakit harcamak istemedim. Diyagramı aldığım adres 
 
-[diyagramı aldığım adres](https://github.com/muhammedelarac/Online-Film)
+[diyagramı aldığım adres](https://github.com/muhammedelarac/Online-Film-Sistemi)
 
 ![diyagramın linki](https://github.com/muhammedelarac/Online-Film-Sistemi/blob/master/Online%20Film%20Sistemi.png)
