@@ -15,4 +15,4 @@ Sistemin bu işlevleri yerine getirme mantığı, her gruplama için farklı ola
 
 ## 'Örnek hayvanat bahçesi yönetimi'ne ilşkin Polimorfik sınıf diyagramı
 
-![]()
+![](https://github.com/iabadanoglu/patikaCourses/blob/Unity/oop-p2.png)
