@@ -13,4 +13,4 @@ Not : Sınıflara ait nitelik ve davranışların belirtilmesine gerek yoktur.
 
 ## Sistemin Class (Sınıf) diyagramı
 
-[img](https://github.com/iabadanoglu/patikaCourses/blob/Unity/oop-%C3%B6dev1-%C3%BCys.png)
+![image](https://github.com/iabadanoglu/patikaCourses/blob/Unity/oop-%C3%B6dev1-%C3%BCys.png)
